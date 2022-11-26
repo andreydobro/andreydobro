@@ -1,16 +1,16 @@
-### Hi there 👋
+# Привет, меня зовут Андрей
 
-<!--
-**andreydobro/andreydobro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Хочу писать чистый читабельный код<br>
+- Освоить новыее фремворки<br>
+- Стремлюсь к работе с настоящими боевыми проктами<br>
+- Хоу работать с опытными колегами
+<br>
 
-Here are some ideas to get you started:
+##  Мой стек:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![js](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript)
+![HTTML](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=css3&logoColor=42aaff)
+![React](https://img.shields.io/badge/Reactt-090909?style=for-the-badge&logo=React)
+![VSCode](https://img.shields.io/badge/VSCode-090909?style=for-the-badge&logo=VisualStudioCode&logoColor=42aaff)
+![git](https://img.shields.io/badge/GIT-090909?style=for-the-badge&logo=git)
