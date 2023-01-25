@@ -14,3 +14,9 @@
 ![React](https://img.shields.io/badge/Reactt-090909?style=for-the-badge&logo=React)
 ![VSCode](https://img.shields.io/badge/VSCode-090909?style=for-the-badge&logo=VisualStudioCode&logoColor=42aaff)
 ![git](https://img.shields.io/badge/GIT-090909?style=for-the-badge&logo=git)
+
+### Социальные сети:
+
+<a href="https://t.me/andrey_dob" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    </a>
